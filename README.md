@@ -32,17 +32,17 @@ This project demonstrates the complete machine learning workflow including data 
 CNN/
 │
 ├── Dataset/
-│ ├── Train/
-│ └── Test/
+│   ├── Train/
+│   └── Test/
 │
 ├── Model/
-│ └── cat_dog_model.keras
+│   └── cat_dog_model.keras
 │
 ├── Src/
-│ └── app.py
+│   └── app.py
 │
 ├── Notebooks/
-│ └── CNN.ipynb
+│   └── CNN.ipynb
 │
 ├── requirements.txt
 └── README.md
